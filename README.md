@@ -1,5 +1,5 @@
 
-# Control flow, Functions, and Statistics - Recap
+# Control Flow, Functions, and Statistics - Recap
 
 
 ## Introduction
